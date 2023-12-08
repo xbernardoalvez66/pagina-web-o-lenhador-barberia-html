@@ -5,4 +5,4 @@
  ## link del proyecto
  ------
 
-<a href="https://xbernardoalvez66.github.io/pagina-web-o-lenhador-barberia-html/pagina-web-o-lenhador-barberia-html/index.html">pagina web O lenhador barderia</a>
+<a href="https://xbernardoalvez66.github.io/pagina-web-o-lenhador-barberia-html/pagina-web-o-lenhador-barberia-html/index.html">pagina web O lenhador barberia</a>
